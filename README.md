@@ -11,6 +11,40 @@
 * Django Rest framework for authentication
 * SQLite for Database
 
+#### Home Page
 
+![](Screenshots/Home.png)
 
+#### SignUp Page
 
+![](Screenshots/signup.png)
+
+#### Login Page
+
+![](Screenshots/login.png)
+
+#### Cart
+
+![](Screenshots/Cart.png)
+
+#### Payment
+
+![](Screenshots/payment.png)
+
+#### Admin Panel
+
+![](Screenshots/admin_panel.png)
+
+#### User Details
+
+![](Screenshots/user.png)
+
+#### Products
+
+![](Screenshots/products.png)
+
+#### Order Details
+
+![](Screenshots/orders.png)
+
+## Made with ❤️️ by Akash
